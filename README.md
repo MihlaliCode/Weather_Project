@@ -23,5 +23,5 @@ Welcome to the WeatherCheck web app! This application allows you to effortlessly
 
 WeatherCheck was developed by Mihlali Kota. You can connect with me on:
 
-- GitHub: [github.com/MihlaliKota](https://github.com/MihlaliKota)
 - LinkedIn: [linkedin.com/in/mihlalikota](https://www.linkedin.com/in/mihlali-kota/)
+- Twitter: [https://twitter.com/MihlaliKota](https://twitter.com/MihlaliKota/)
